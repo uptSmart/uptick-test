@@ -1,0 +1,16 @@
+{
+	"messages": [
+	  {
+		"@type": "/cosmos.upgrade.v1beta1.SoftwareUpgradeProposal",
+		"title": "upgrade",
+		"description": "upgrade",
+		"plan":{
+			"name":"upgrade Plan",
+			"time":"2022-10-20T16:14:19.367041185Z",
+			"height":10000,
+			"info":"myTest"
+		}
+	  }
+	],
+	"deposit": "100000000000000000auptick"
+  }

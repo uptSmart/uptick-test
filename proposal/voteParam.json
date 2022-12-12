@@ -1,0 +1,9 @@
+{
+    "title":"Gov Param Change",
+    "description":"Change the number of voting_period to 86400s(24h)",
+    "changes":[
+      {"subspace":"gov","key":"votingparams","value":{"voting_period": "86400"}},
+      {"subspace":"gov","key":"depositparams","value":{"max_deposit_period": "86400"}}
+    ],
+    "deposit":"10000000000000000000auptick"
+  }

@@ -26,7 +26,7 @@ TRACE=""
 LOGLEVEL="info"
 
 DAEMON_NAME=uptickd
-DAEMON_HOME=/Users/xuxinlai/my/mul/work/new/uptick-test/data/uptick_7000-1/
+DAEMON_HOME=/Users/xuxinlai/my/mul/new/uptick-test/data/uptick_7000-1/
 DAEMON_RESTART_AFTER_UPGRADE=true
 
 # Stop if it is already running 

@@ -5,7 +5,7 @@ killall uptickd
 cd /Users/xuxinlai/my/mul/gon/uptick
 
 make install
-cd /Users/xuxinlai/my/mul/work/new/uptick-test
+cd /Users/xuxinlai/my/mul/workuptick-test
 
 rm -rf data/uptick_7000-1.log
 

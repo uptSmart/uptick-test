@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# nohup cosmovisor run start --home /Users/xuxinlai/my/mul/work/new/uptick-test> \
-# /Users/xuxinlai/my/mul/work/new/uptick-test/cosmovisor/node.log 2>&1 & 
+# nohup cosmovisor run start --home /Users/xuxinlai/my/mul/workuptick-test> \
+# /Users/xuxinlai/my/mul/new/uptick-test/cosmovisor/node.log 2>&1 & 
 
 #chain params 
 CHAIN_DIR=./data

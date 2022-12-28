@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #chain params 
-CHAIN_DIR=/Users/xuxinlai/my/mul/work/new/uptick-test/data
+CHAIN_DIR=/Users/xuxinlai/my/mul/new/uptick-test/data
 
 ##chain1 uptick
 BINARY_1=uptickd

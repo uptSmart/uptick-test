@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-12-17T08:50:03.507116Z",
+  "genesis_time": "2022-12-28T02:02:39.030735Z",
   "chain_id": "uptick_7000-1",
   "initial_height": "1",
   "consensus_params": {
@@ -225,7 +225,7 @@
                 "validator_address": "uptickvaloper103rx84uqa7n4mtmz8f88n4g9m7973rxucm78jp",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "M71ySUS4HL3klf1QaC4ChZ70naUcfaSMVPYrlJ3Aa4I="
+                  "key": "wqia9uAvRicx8NLmeGFXqZKrYw/8GiiY/EIV8lkTitc="
                 },
                 "value": {
                   "denom": "auptick",
@@ -233,7 +233,7 @@
                 }
               }
             ],
-            "memo": "3c12d8464f2e3e998731cf587d0f78971aae0245@192.168.0.100:26656",
+            "memo": "bcc74b55d036fcbb8b3eb86b13a0acc6d028a825@192.168.0.100:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -262,7 +262,7 @@
             "tip": null
           },
           "signatures": [
-            "OQ9oUyFG0Y07Cqn6Jfrxf8wwZhsw58wLwVyIT57YAAxI5K4AqtOldn6OrRXPeIEm/grBAsIH1pQHp/iGCEgOhwA="
+            "sDi+rxVCVuHVd3RgRxmFbYa7GHEWTMOiAOOHgeCK+t0reUzcnTQ6IFZ9cEKnUGXYtY4wwGF1OrR6TQmIY51G1wE="
           ]
         }
       ]

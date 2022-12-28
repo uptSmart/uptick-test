@@ -5,4 +5,4 @@ then
     killall uptickd
 fi
 
-rm -rf ./data
+rm -rf ./data/*

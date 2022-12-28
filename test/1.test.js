@@ -28,7 +28,7 @@ async function preRun(){
 async function runAndCheckEvm2Cosmos(){
 
     //5.run test case
-    await runFromErc721ToCosmosNft("0x432FDd12f13F3D03a8429687db3102e65dBE3060",1,"","");
+    // await runFromErc721ToCosmosNft("0x432FDd12f13F3D03a8429687db3102e65dBE3060",1,"","");
 
     //6.check result
     let exceptedTitles =["owner"]
@@ -55,7 +55,7 @@ async function runAndCheckCosmos2Evm(){
 
     //cosmos -> evm
     //7.run test case
-    await runCaseFromCosmosToErc721("uptick-432FDd12f13F3D03a8429687db3102e65dBE3060","uptick1","","","");
+    // await runCaseFromCosmosToErc721("uptick-432FDd12f13F3D03a8429687db3102e65dBE3060","uptick1","","","");
 
     //8.check result
     let exceptedTitles =["owner"]

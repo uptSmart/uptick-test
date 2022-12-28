@@ -18,5 +18,5 @@ uptickd tx gov vote $1 yes \
 --from $valWallet --chain-id uptick_7000-1 \
 --keyring-dir ./data/uptick_7000-1 \
 --keyring-backend=test \
---node tcp://127.0.0.1:16657 --gas auto \
+--node tcp://127.0.0.1:26657 --gas auto \
 --home ./data/uptick_7000-1 -y

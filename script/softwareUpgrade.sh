@@ -10,4 +10,4 @@ uptickd tx gov submit-legacy-proposal software-upgrade v0.2.2 \
 --from $valWallet --yes --keyring-backend test --keyring-dir $DAEMON_HOME \
 --chain-id uptick_7000-1 -b block \
 --no-validate \
---node tcp://127.0.0.1:16657 -y
+--node tcp://127.0.0.1:26657 -y

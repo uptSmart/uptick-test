@@ -13,9 +13,9 @@ VAL_MNEMONIC_1="clock post desk civil pottery foster expand merit dash seminar s
 DEMO_MNEMONIC_1="banner spread envelope side kite person disagree path silver will brother under couch edit food venture squirrel civil budget number acquire point work mass"
 RLY_MNEMONIC_1="record gift you once hip style during joke field prize dust unique length more pencil transfer quit train device arrive energy sort steak upset"
 
-P2PPORT_1=16656
-RPCPORT_1=16657
-RPCAPPPORT_1=16658
+P2PPORT_1=26656
+RPCPORT_1=26657
+RPCAPPPORT_1=26658
 RESTPORT_1=1316
 ROSETTA_1=8080
 

@@ -12,5 +12,5 @@ $demo2Wallet $classId $tokenId \
 --from $valWallet --chain-id uptick_7000-1 \
 --keyring-dir ./data/uptick_7000-1 --gas auto \
 --keyring-backend=test -b block -y \
---node tcp://127.0.0.1:16657 \
+--node tcp://127.0.0.1:26657 \
 --packet-timeout-height 2-10000

@@ -38,5 +38,5 @@ sleep 8
 
 uptickd tx bank send uptick103rx84uqa7n4mtmz8f88n4g9m7973rxutrtn7d uptick1p4szayprev5yml5f2l6uq39gyuzamq3j9kqr2a \
 1000000000auptick --chain-id uptick_7000-1 --home ./data/uptick_7000-1 \
---node tcp://localhost:16657 --keyring-backend test -y
+--node tcp://localhost:26657 --keyring-backend test -y
 

@@ -13,9 +13,9 @@ VAL_MNEMONIC_1="clock post desk civil pottery foster expand merit dash seminar s
 DEMO_MNEMONIC_1="banner spread envelope side kite person disagree path silver will brother under couch edit food venture squirrel civil budget number acquire point work mass"
 RLY_MNEMONIC_1="record gift you once hip style during joke field prize dust unique length more pencil transfer quit train device arrive energy sort steak upset"
 
-P2PPORT_1=16656
-RPCPORT_1=16657
-RPCAPPPORT_1=16658
+P2PPORT_1=26656
+RPCPORT_1=26657
+RPCAPPPORT_1=26658
 RESTPORT_1=1316
 ROSETTA_1=8080
 
@@ -119,8 +119,8 @@ $BINARY_1 start $TRACE --log_level $LOGLEVEL --minimum-gas-prices=0auptick \
 
 # uptickd tx bank send uptick103rx84uqa7n4mtmz8f88n4g9m7973rxutrtn7d uptick1p4szayprev5yml5f2l6uq39gyuzamq3j9kqr2a \
 # 1000000000auptick --chain-id uptick_7000-1 --home ./data/uptick_7000-1 \
-# --node tcp://localhost:16657 --keyring-backend test -y
+# --node tcp://localhost:26657 --keyring-backend test -y
 
 # uptickd tx bank send uptick103rx84uqa7n4mtmz8f88n4g9m7973rxutrtn7d uptick17d0c8nedfzlytj0kcs80rh3fk8el58fvnw8pmw \
 # 11000000000000000000auptick --chain-id uptick_7000-1 --home ./data/uptick_7000-1 \
-# --node tcp://localhost:16657 --keyring-backend test -y ;
+# --node tcp://localhost:26657 --keyring-backend test -y ;

@@ -32,11 +32,11 @@ if [ -z $receiver ] ; then
     uptickd tx erc721 convert-nft "$classId" "$nftId" "$contractAddress" "$tokenId" \
     --from $valWallet --chain-id uptick_7000-1 \
     --keyring-dir ./data/uptick_7000-1 --gas auto \
-    --keyring-backend=test -b block --node tcp://127.0.0.1:16657 -y
+    --keyring-backend=test -b block --node tcp://127.0.0.1:26657 -y
 else
     uptickd tx erc721 convert-nft "$classId" "$nftId" "$contractAddress" "$tokenId" "$receiver" \
     --from $valWallet --chain-id uptick_7000-1 \
     --keyring-dir ./data/uptick_7000-1 --gas auto \
-    --keyring-backend=test -b block --node tcp://127.0.0.1:16657 -y
+    --keyring-backend=test -b block --node tcp://127.0.0.1:26657 -y
 fi
 

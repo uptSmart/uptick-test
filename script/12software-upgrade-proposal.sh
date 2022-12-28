@@ -9,4 +9,4 @@ uptickd tx gov submit-proposal software-upgrade v0.2.3 \
 --title upgrade --description upgrade --upgrade-height 20 \
 --from $valWallet --yes --keyring-backend test --keyring-dir $DAEMON_HOME \
 --chain-id uptick_7000-1 -b block \
- --node tcp://127.0.0.1:16657 -y
+ --node tcp://127.0.0.1:26657 -y

@@ -81,7 +81,7 @@ async function runAndCheckCosmos2Evm(){
 async function main(){
 
     await preRun();
-    await runAndCheckEvm2Cosmos();
+    // await runAndCheckEvm2Cosmos();
     // await runAndCheckCosmos2Evm();
 
 }
